@@ -29,6 +29,6 @@ public class Primes {
         }
         double rat = n;
         double ratio = counter/rat*100;
-        System.out.println("There are " + counter + " primes between 0 and " + n + " (" + (int) ratio + "% are primes)");
+        System.out.println("There are " + counter + " primes between 2 and " + n + " (" + (int) ratio + "% are primes)");
     }
 }
